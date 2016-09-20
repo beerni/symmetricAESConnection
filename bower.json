@@ -1,0 +1,21 @@
+{
+  "name": "symmetricCipher-client-server",
+  "description": "symmetric exchange",
+  "main": "app.js",
+  "authors": [
+    "Bernat Mir <bernatmir13@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "crypto-js": "^3.1.6",
+    "jquery": "^3.1.0"
+  }
+}
